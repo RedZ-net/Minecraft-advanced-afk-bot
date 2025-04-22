@@ -3,7 +3,7 @@ import time
 import threading
 from minecraft.networking.connection import Connection
 from minecraft.networking.packets import PositionAndLookPacket
-from minecraft.networking.packets import ClientSettingsPacket
+from minecraft.networking.packets.client.settings import ClientSettingsPacket
 
 # Load from environment variables
 SERVER_HOST = os.getenv("MC_SERVER_IP")

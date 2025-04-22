@@ -1,2 +1,2 @@
-minecraft==1405030
-cryptography>=41.0.0
+minecraft-protocol
+cryptography

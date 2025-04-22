@@ -1,2 +1,1 @@
-pyCraft
-cryptography
+git+https://github.com/ammaraskar/pyCraft.git
